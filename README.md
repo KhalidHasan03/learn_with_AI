@@ -369,7 +369,7 @@ Laravel Backend Developer | Full Stack Web Developer
 
 ### Connect With Me
 
-- LinkedIn: https://linkedin.com/in/halid-hasan-shafi
+- LinkedIn: [https://linkedin.com/in/halid-hasan-shafi](https://www.linkedin.com/in/khalid-hasan-shafi/)
 - GitHub: https://github.com/KhalidHasan03
 
 ---
