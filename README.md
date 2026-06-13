@@ -234,33 +234,45 @@ Track Performance Across:
 
 ## 📸 Screenshots
 
-### Landing Page
+### 🏠 Dashboard (1)
+![Dashboard 1](screenshots/Dashboard1.png)
 
-![Landing Page](screenshots/landing-page.png)
+### 🏠 Dashboard (2)
+![Dashboard 2](screenshots/Dashboard2.png)
 
-### Dashboard
+### 🏠 Dashboard (3)
+![Dashboard 3](screenshots/Dashboard3.png)
 
-![Dashboard](screenshots/dashboard.png)
+### 📊 IELTS Dashboard
+![IELTS Dashboard](screenshots/ielts_Dashboard.png)
 
-### Course Details
+### 📖 Vocabulary Builder
+![Vocabulary Builder](screenshots/vocabulary.png)
 
-![Course Details](screenshots/course-details.png)
+### ✍️ IELTS Writing Practice
+![Writing Practice](screenshots/WrittingPractice.png)
 
-### AI Chat Tutor
+### 📈 IELTS Writing Result
+![Writing Result](screenshots/writingResult.png)
 
-![AI Chat Tutor](screenshots/ai-chat.png)
+### 🤖 AI Chat Tutor
+![AI Tutor](screenshots/AiTutor.png)
 
-### IELTS Writing Evaluation
+### 📚 Course Explorer
+![Courses](screenshots/courses.png)
 
-![IELTS Writing](screenshots/ielts-writing.png)
+### 👤 User Profile
+![Profile](screenshots/profile.png)
 
-### Vocabulary Builder
+### 🎙️ Speaking Interview (1)
+![Speaking Interview 1](screenshots/speaking_Interview1.png)
 
-![Vocabulary Builder](screenshots/vocabulary-builder.png)
+### 🎙️ Speaking Interview (2)
+![Speaking Interview 2](screenshots/speaking_Interview2.png)
 
-### Admin Dashboard
+### 🗣️ Speaking Practice
+![Speaking Practice](screenshots/speakingPractice.png)
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ---
 
