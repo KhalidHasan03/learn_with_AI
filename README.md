@@ -234,44 +234,47 @@ Track Performance Across:
 
 ## 📸 Screenshots
 
-### 🏠 Dashboard (1)
+## 📸 Screenshots
+
+### 🏠 Main Dashboard (Overview)
 ![Dashboard 1](screenshots/Dashboard1.png)
 
-### 🏠 Dashboard (2)
+### 🌌 Dashboard (Analytics View)
 ![Dashboard 2](screenshots/Dashboard2.png)
 
-### 🏠 Dashboard (3)
+### 🎨 Dashboard (Interactive Mode)
 ![Dashboard 3](screenshots/Dashboard3.png)
 
-### 📊 IELTS Dashboard
+### 📊 IELTS Progress Dashboard
 ![IELTS Dashboard](screenshots/ielts_Dashboard.png)
 
-### 📖 Vocabulary Builder
+### 📖 Vocabulary Builder Module
 ![Vocabulary Builder](screenshots/vocabulary.png)
 
-### ✍️ IELTS Writing Practice
+### ✍️ Writing Practice Workspace
 ![Writing Practice](screenshots/WrittingPractice.png)
 
-### 📈 IELTS Writing Result
+### 📈 Writing Evaluation Result
 ![Writing Result](screenshots/writingResult.png)
 
-### 🤖 AI Chat Tutor
+### 🤖 AI-Powered Tutor Chat
 ![AI Tutor](screenshots/AiTutor.png)
 
-### 📚 Course Explorer
+### 📚 Course Explorer Page
 ![Courses](screenshots/courses.png)
 
-### 👤 User Profile
+### 👤 Personalized User Profile
 ![Profile](screenshots/profile.png)
 
-### 🎙️ Speaking Interview (1)
+### 🎙️ Speaking Interview (Scenario 1)
 ![Speaking Interview 1](screenshots/speaking_Interview1.png)
 
-### 🎙️ Speaking Interview (2)
+### 🎙️ Speaking Interview (Scenario 2)
 ![Speaking Interview 2](screenshots/speaking_Interview2.png)
 
-### 🗣️ Speaking Practice
+### 🗣️ Speaking Practice Session
 ![Speaking Practice](screenshots/speakingPractice.png)
+
 
 
 ---
