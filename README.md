@@ -237,11 +237,8 @@ Track Performance Across:
 ### 🏠 Main Dashboard (Overview)
 ![Dashboard 1](screenshots/Dashboard1.png)
 
-### 🌌 Dashboard (Analytics View)
+### 🎨 Dashboard (Interactive View)
 ![Dashboard 2](screenshots/Dashboard2.png)
-
-### 🎨 Dashboard (Interactive Mode)
-![Dashboard 3](screenshots/Dashboard3.png)
 
 ### 📊 IELTS Progress Dashboard
 ![IELTS Dashboard](screenshots/ielts_Dashboard.png)
