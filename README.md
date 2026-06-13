@@ -1,3 +1,44 @@
+#Project Preview
+
+### 🏠 Main Dashboard (Overview)
+![Dashboard 1](screenshots/Dashboard1.png)
+
+### 🎨 Dashboard (Interactive View)
+![Dashboard 2](screenshots/Dashboard2.png)
+
+### 📊 IELTS Progress Dashboard
+![IELTS Dashboard](screenshots/ielts_Dashboard.png)
+
+### 📖 Vocabulary Builder Module
+![Vocabulary Builder](screenshots/vocabulary.png)
+
+### ✍️ Writing Practice Workspace
+![Writing Practice](screenshots/WrittingPractice.png)
+
+### 📈 Writing Evaluation Result
+![Writing Result](screenshots/writingResult.png)
+
+### 🤖 AI-Powered Tutor Chat
+![AI Tutor](screenshots/AiTutor.png)
+
+### 📚 Course Explorer Page
+![Courses](screenshots/courses.png)
+
+### 👤 Personalized User Profile
+![Profile](screenshots/profile.png)
+
+### 🎙️ Speaking Interview (Scenario 1)
+![Speaking Interview 1](screenshots/speaking_Interview1.png)
+
+### 🎙️ Speaking Interview (Scenario 2)
+![Speaking Interview 2](screenshots/speaking_Interview2.png)
+
+### 🗣️ Speaking Practice Session
+![Speaking Practice](screenshots/speakingPractice.png)
+
+
+---
+
 # 🚀 AI Learning Platform
 
 An AI-powered e-learning platform built with Laravel and React that combines online education, IELTS preparation, personalized AI assistance, gamification, and intelligent learning tools into a single modern learning ecosystem.
@@ -229,47 +270,6 @@ Track Performance Across:
 ### AI Integration
 
 - OpenAI GPT-3.5 Turbo
-
----
-
-## 📸 Screenshots
-
-### 🏠 Main Dashboard (Overview)
-![Dashboard 1](screenshots/Dashboard1.png)
-
-### 🎨 Dashboard (Interactive View)
-![Dashboard 2](screenshots/Dashboard2.png)
-
-### 📊 IELTS Progress Dashboard
-![IELTS Dashboard](screenshots/ielts_Dashboard.png)
-
-### 📖 Vocabulary Builder Module
-![Vocabulary Builder](screenshots/vocabulary.png)
-
-### ✍️ Writing Practice Workspace
-![Writing Practice](screenshots/WrittingPractice.png)
-
-### 📈 Writing Evaluation Result
-![Writing Result](screenshots/writingResult.png)
-
-### 🤖 AI-Powered Tutor Chat
-![AI Tutor](screenshots/AiTutor.png)
-
-### 📚 Course Explorer Page
-![Courses](screenshots/courses.png)
-
-### 👤 Personalized User Profile
-![Profile](screenshots/profile.png)
-
-### 🎙️ Speaking Interview (Scenario 1)
-![Speaking Interview 1](screenshots/speaking_Interview1.png)
-
-### 🎙️ Speaking Interview (Scenario 2)
-![Speaking Interview 2](screenshots/speaking_Interview2.png)
-
-### 🗣️ Speaking Practice Session
-![Speaking Practice](screenshots/speakingPractice.png)
-
 
 
 ---
