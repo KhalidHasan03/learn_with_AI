@@ -1,4 +1,4 @@
-#Project Preview
+# Project Preview
 
 ### 🏠 Main Dashboard (Overview)
 ![Dashboard 1](screenshots/Dashboard1.png)
@@ -39,13 +39,13 @@
 
 ---
 
-# 🚀 AI Learning Platform
+# AI Learning Platform
 
 An AI-powered e-learning platform built with Laravel and React that combines online education, IELTS preparation, personalized AI assistance, gamification, and intelligent learning tools into a single modern learning ecosystem.
 
 ---
 
-## 🌟 Overview
+## Overview
 
 AI Learning Platform is designed to provide students with a personalized and engaging learning experience. The platform offers course management, AI-powered tutoring, IELTS preparation tools, progress tracking, achievements, and interactive learning features.
 
