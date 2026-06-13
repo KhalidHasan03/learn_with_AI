@@ -234,8 +234,6 @@ Track Performance Across:
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Main Dashboard (Overview)
 ![Dashboard 1](screenshots/Dashboard1.png)
 
